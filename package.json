@@ -14,7 +14,15 @@
   "author": "Ricardo Gauto <ricardogauto11@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardogauto11/pew-pew-pew.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ricardogauto11/pew-pew-pew/issues"
+  },
+  "homepage": "https://github.com/ricardogauto11/pew-pew-pew#readme"
 }
